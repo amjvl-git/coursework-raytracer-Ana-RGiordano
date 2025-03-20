@@ -1,0 +1,16 @@
+{
+    "version": "1.96.4",
+    "configurations": [
+        {
+            "name": "Launch Edge",
+            "type": "msedge",
+            "request": "launch",
+            "file": "${workspaceFolder}/coursework/index.html",
+            "webRoot": "${workspaceFolder}/coursework",
+            "runtimeArgs": ["--start-maximized"],
+            "sourceMaps": true,
+            "smartStep": true
+        }
+    ]
+}
+
